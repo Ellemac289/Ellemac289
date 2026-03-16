@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ellemac289
 - 👀 I’m interested in learning to code!
-- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on lots of projects
-- 📫 Reach me on my email: ellemac289@gmail.com
 
 <!---
 Ellemac289/Ellemac289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
